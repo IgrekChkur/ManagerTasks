@@ -1,0 +1,6 @@
+﻿  ManagementTasks.cpp
+E:\C++\petProjects\ManagementTasks\ManagementTasks.cpp(43,26): warning C4018: <: несоответствие типов со знаком и без знака
+E:\C++\petProjects\ManagementTasks\ManagementTasks.cpp(57,26): warning C4018: <: несоответствие типов со знаком и без знака
+E:\C++\petProjects\ManagementTasks\ManagementTasks.cpp(77,21): warning C4018: <: несоответствие типов со знаком и без знака
+E:\C++\petProjects\ManagementTasks\ManagementTasks.cpp(102,20): warning C4018: <: несоответствие типов со знаком и без знака
+  ManagementTasks.vcxproj -> E:\C++\petProjects\ManagementTasks\Debug\ManagementTasks.exe

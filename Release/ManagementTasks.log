@@ -1,0 +1,10 @@
+﻿  ManagementTasks.cpp
+E:\C++\petProjects\ManagementTasks\ManagementTasks.cpp(43,26): warning C4018: <: несоответствие типов со знаком и без знака
+E:\C++\petProjects\ManagementTasks\ManagementTasks.cpp(57,26): warning C4018: <: несоответствие типов со знаком и без знака
+E:\C++\petProjects\ManagementTasks\ManagementTasks.cpp(77,21): warning C4018: <: несоответствие типов со знаком и без знака
+E:\C++\petProjects\ManagementTasks\ManagementTasks.cpp(102,20): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 299 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  ManagementTasks.vcxproj -> E:\C++\petProjects\ManagementTasks\Release\ManagementTasks.exe
